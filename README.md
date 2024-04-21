@@ -1,8 +1,8 @@
 # Reinforcement Learning Model for Hack and Slash Game
 
-The following is the code & reproducability instructions for the model training & game. [This](https://drive.google.com/file/d/1bEyuaE3RZvHLvkdvwxkkakb-djMVO6WX/view?usp=sharing) is the link to the full unity environment in case its needed.
+The following is the code & reproducability instructions for the model training & game. 
 
-## Code
+## Overview & Code Summary
 
 - [Here](https://drive.google.com/file/d/1VAcqku52l6gcGUWU2Xc7STchCXoqdkuX/view?usp=sharing) is a screen recording of an inference run of the Vector+CNN model in Unity that showcases the Episode Reward at the end. 
 - The [Scripts/](Scripts/) folder contains all scripts used in the game. Most relevant:

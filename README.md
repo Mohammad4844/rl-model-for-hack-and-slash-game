@@ -59,7 +59,7 @@ behaviors:
       curiosity:
         strength: 0.1
         gamma: 0.99
-    max_steps: 6000000
+    max_steps: 600000
     time_horizon: 1000
     summary_freq: 5000
 ```

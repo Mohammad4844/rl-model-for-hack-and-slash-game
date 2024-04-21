@@ -24,9 +24,9 @@ Total = 74 observations. These are all defined in `CollectObservations()` in [Pl
 
 ### Image Observations
 
-For this, a simple Camera Sensor compnenet needs to be defined. The follwinf is the one used:
+For this, a simple Camera Sensor compnenet needs to be defined. The follwing is the one used:
 
-![a]("sensor.png")
+![a](sensor.png)
 
 ## Training Instructions
 

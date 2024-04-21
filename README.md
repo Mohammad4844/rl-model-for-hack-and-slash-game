@@ -24,6 +24,10 @@ Total = 74 observations. These are all defined in `CollectObservations()` in [Pl
 
 ### Image Observations
 
+For this, a simple Camera Sensor compnenet needs to be defined. The follwinf is the one used:
+
+![a]("sensor.png")
+
 ## Training Instructions
 
 - Build the game into a Linux executable

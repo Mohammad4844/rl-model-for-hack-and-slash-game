@@ -4,6 +4,7 @@ The following is the code & reproducability instructions for the model training 
 
 ## Code
 
+- [Here](https://drive.google.com/file/d/1VAcqku52l6gcGUWU2Xc7STchCXoqdkuX/view?usp=sharing) is a screen recording of an inference run of the Vector+CNN model in Unity that showcases the Episode Reward at the end. 
 - The [Scripts/](Scripts/) folder contains all scripts used in the game. Most relevant:
   - [PlayerCharacterAgent.cs](Scripts/PlayerCharacterAgent.cs): All code for the agent (observations, actions, heaursitics).
   - [HealthDamageController.cs](Scripts/HealthDamageController.cs): Rewards for the agent (enemies dying, player dying, taking damage).
@@ -11,7 +12,7 @@ The following is the code & reproducability instructions for the model training 
 
 ## Observations
 
-Defining observations in Unity is the only challenging/unique thing compared to other, so this section will outline some details.
+Defining observations in Unity is the only challenging/unique thing compared to others, so this section will outline some details.
 
 ### Vector observations
 

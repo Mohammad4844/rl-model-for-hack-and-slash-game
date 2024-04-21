@@ -8,6 +8,8 @@ The following is the code & reproducability instructions for the model training 
 - The [Scripts/](Scripts/) folder contains all scripts used in the game. Most relevant:
   - [PlayerCharacterAgent.cs](Scripts/PlayerCharacterAgent.cs): All code for the agent (observations, actions, heaursitics).
   - [HealthDamageController.cs](Scripts/HealthDamageController.cs): Rewards for the agent (enemies dying, player dying, taking damage).
+- [config.yaml](config.yaml) is an example of a hyperparameter config file for Unity Ml-agents.
+- [notebook.ipynb](notebook.ipynb) is an exmaple of a notebook I ran for one of the models.
 - [This](https://drive.google.com/file/d/1bEyuaE3RZvHLvkdvwxkkakb-djMVO6WX/view?usp=sharing) is the link to the full unity environment in case its needed.
 
 ## Observations

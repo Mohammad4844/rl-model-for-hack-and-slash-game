@@ -35,7 +35,7 @@ For this, a simple Camera Sensor compnenet needs to be defined. The follwing is 
 
 - Build the game into a Linux executable
 - Upload the built EXECUTABLE & UnityPLayer.so into a colab environment 
-- Define a .yaml CONFIG file with the training config. The following is an example of the CNN model:
+- Define a .yaml CONFIG file with the training config. The following is an example of the Vector+CNN model:
 ```
 behaviors:
   PlayerAgent:

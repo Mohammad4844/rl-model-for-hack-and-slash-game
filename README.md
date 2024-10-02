@@ -1,6 +1,6 @@
 # Reinforcement Learning Model for Hack and Slash Game
 
-The following is the code & reproducability instructions for the model training & game. 
+The following are the code & reproducibility instructions for the model training & game. For details, read the [research paper](paper.pdf).
 
 ## Overview & Code Summary
 
